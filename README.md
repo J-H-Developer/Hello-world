@@ -4,5 +4,7 @@ Hello everyone!
 
 JH-Developer here.
 
-I like data science projects in R.
+I collaborative software development projects.
+
+Look forward to collaborating wit you!
 
